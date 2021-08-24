@@ -14,3 +14,9 @@ Blog-Site is a responsive JavaScript/EJS application that gives the user the abi
 * lodash
 
 ## Video Demostration 
+
+
+
+https://user-images.githubusercontent.com/42854222/130699510-b4f6ab63-ceed-4026-8c08-de0b01b63f96.mp4
+
+
